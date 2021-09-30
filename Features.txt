@@ -1,4 +1,6 @@
+#Features of this platform
 1) This project is all about Traveling all around the world
 2) It is a web-based platform where you can find the host in the city you want to travel
 3) This platform has also a feature where you can find cheap rooms available by the local peoples there
 4) This platform allows anyone to be a host or to rent their rooms
+
